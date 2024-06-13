@@ -1,5 +1,4 @@
 #import Essential dependencies
-Copy code
 pip install -e .
 pip install langchain_community
 import streamlit as sl
