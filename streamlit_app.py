@@ -1,5 +1,4 @@
 #import Essential dependencies
-import langchain_community
 import streamlit as sl
 from langchain_community.document_loaders import PyPDFLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
